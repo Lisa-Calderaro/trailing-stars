@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name+"viewport" content="initial-scale=1, width=device-width">
+        <link rel="stylesheet" href="style.css">
+        <script type="module" src="index.js"></script<
+        <title>Animate Plus: Burst</title>
+        <template>
+            #document-fragment
+                <svg viewbox="0 0 20 20">
+                    <polygon points="10 1 12.2 8 19.5 8 13.6 12.2 16 19 10 14.8 4.1 19.1 6.4 12.1 .4 8 7.8 8"></polygon>
+                </svg>
+        </template>
+    </head>
+    <body></body>
+</html> == $0
